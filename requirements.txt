@@ -1,0 +1,10 @@
+flask
+requests
+beautifulsoup4
+pillow
+pytesseract
+rembg
+opencv-python-headless
+numpy
+pandas
+gunicorn
